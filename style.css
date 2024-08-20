@@ -1,0 +1,33 @@
+        body {
+            margin-top: 2%;
+            padding: 0px;
+            background-color: aqua;
+            color: darkorange;
+            text-align: center;
+            background-image: url();
+        }
+        
+        input {
+            width: 12%;
+            height: 15%;
+            font-size: 120%;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 5%;
+            background-color: black;
+            color: white;
+            margin: 1%;
+            padding: 0px;
+            font-weight: bold;
+        }
+        
+        form.second {
+            background-color: rgb(126, 124, 124);
+            margin: auto;
+            width: 23%;
+            padding: 0.5%;
+        }
+        
+        .btn:hover {
+            background-color: rgb(92, 105, 110);
+            cursor: pointer;
+        }
